@@ -17,7 +17,8 @@ This code can be easily executed in VS Code, Google Colab, or any Jupyter notebo
 
 <br>
 
-## Assessment Criteria for Data Centers
+## Demonstration for Data Centers in Japan
+### Assessment Criteria
 
 ![criteria](output/criteria_pareto_all.jpg)
 
@@ -27,3 +28,8 @@ Green bars indicate the regional criteria incorporated into our ILA. Gray bars r
 Data source:
 Erdem and Özdemir; Sustainability and risk assessment of data center locations under a fuzzy environment. Journal of Cearner Production (2024)
 [https://doi.org/10.1016/j.jclepro.2024.141982](https://doi.org/10.1016/j.jclepro.2024.141982)
+
+
+### Caluculated Data Center Siting Potential
+
+![potential](output/map_DC_potential_km2.jpg)
