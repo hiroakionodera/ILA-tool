@@ -1,7 +1,6 @@
 # Integrated Location Assessment (ILA)
 
 
-## Description
 The Integrated Location Assessment (ILA) framework estimates the siting potential of each region using the following equation:
 
 $$
