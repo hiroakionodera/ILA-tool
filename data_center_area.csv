@@ -1,0 +1,23 @@
+﻿Owner,Data center name,Area (m2),Capacity (MW),Density (m2/MW),Source
+Princeton Digital Group,Princeton Digital TY1,12096,97,125,https://www.datacentermap.com/japan/tokyo/ty1/
+Equinix ,Equinix OS4x,4925,14.4,342,https://www.datacentermap.com/japan/osaka/equinix-os4x/specs/
+Equinix ,Equinix TY13x,4926,14,352,https://www.datacentermap.com/japan/tokyo/equinix-ty13x/specs/
+Equinix ,Equinix TY12x,5765,18,320,https://www.datacentermap.com/japan/tokyo/equinix-ty12x/specs/
+IIJ,IIJ Shiroi DCC,8000,10,800,https://www.datacentermap.com/japan/tokyo/iij-shiroi-dcc/specs/
+Colt,Colt Tokyo Inzai Four,8747,20,437,https://www.datacentermap.com/japan/tokyo/colt-tokyo-inzai-four/
+Colt,Colt Tokyo Inzai Three,8000,27,296,https://www.datacentermap.com/japan/tokyo/colt-tokyo-inzai-three/specs/
+Colt,Colt Tokyo Inzai Two,5000,24,208,https://www.datacentermap.com/japan/tokyo/colt-tokyo-inzai-two/specs/
+Colt,Colt Tokyo Inzai One,4000,10,400,https://www.datacentermap.com/japan/tokyo/colt-tokyo-inzai-one/specs/
+Colt,Colt Osaka Keihanna,42000,45,933,https://www.datacentermap.com/japan/osaka/colt-osaka-keihanna/specs/
+ESR,ESR Cosmosquare OS1,9000,19.2,469,https://www.datacentermap.com/japan/osaka/esr-cosmosquare-os1/specs/
+AirTrunk,AirTrunk Osaka West - OSK1,5400,20,270,https://www.datacentermap.com/japan/osaka/airtrunk-singapore-osk1/specs/
+ada,Tokyo West 2,220450,295,747,https://adainfrastructure.com/ja-JP/tokyo-west-2
+NTT DATA,三鷹データセンターEAST,14000,40,350,https://www.nttdata.com/global/ja/news/release/2018/032001-01/
+MC DIGITAL REALTY,KIX CAMPUS,47900,74,647,https://www.mc-digitalrealty.com/data-centers/kix
+MC DIGITAL REALTY,NRT CAMPUS,56160,120,468,https://www.mc-digitalrealty.com/data-centers/nrt
+IDC Frontier,TOKYO FUCHU DATA CENTER,13258,50,265,https://www.idcf.jp/datacenter/location/fuchu.html
+IDC Frontier,FUKUOKA KITAKYUSHU DATA CENTER,39900,30,1330,https://www.idcf.jp/pressrelease/2016/20161215001.html
+Global Compute Infrastructure,Kyushu,62726,120,523,https://gc-infra.com/gc-1-20-2025-press-release/
+NTT,NTT Osaka 7,11500,35.5,324,https://www.datacentermap.com/japan/osaka/ntt-osaka-7/specs/
+,,,,,
+Average,,,,480.3,
